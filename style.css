@@ -1,0 +1,82 @@
+/**SHOHAN**/
+*{
+  margin: 0;
+  padding: 0;
+}
+.wraper{
+  border: solid #9b59b6;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.header{
+  height: 120px;
+  background-color: #e67e22;
+}
+.logo{
+  background-color: #2ecc71;
+  height: 70px;
+  width: 80px;
+  margin: 10px
+  
+}
+.logo h2{
+  text-align: center;
+  padding-top: 20px;
+}
+.header h2{
+  text-align: center ;
+ 
+}
+.nav-bar{
+  background-color: #3498db;
+  padding: 20px;
+  margin-top: 6px;
+  
+  
+}
+.nav-bar h2{
+  text-align: center;
+}
+.content{
+  border: solid red;
+  overflow: hidden;
+  margin-top:6px
+}
+.left-content{
+  width: 75%;
+  height: 600px;
+  background-color: #1289A7;
+  float: left;
+}
+.left-content h2{
+  text-align: center;
+  margin-top: 280px
+}
+
+.right-content{
+  width: 24%;
+  height: 600px;
+  background-color: #009432;
+  float:right
+}
+.right-content h2{
+  text-align: center;
+  margin-top: 280px
+}
+.footer{
+  height: 90px;
+  background-color:#0652DD; 
+  margin-top: 6px;
+}
+
+.footer h2{
+  text-align: center;
+  padding-top: 30px;
+}
+
+
+
+
+
+
